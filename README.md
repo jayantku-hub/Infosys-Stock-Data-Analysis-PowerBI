@@ -41,8 +41,7 @@ The dashboard enables users to explore stock performance across different time p
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot]([Screenshots/dashboard_overview.png](https://drive.google.com/file/d/1VzimXJw1uwvZzvScGz-46-5ylSVYS_bl/view?usp=sharing))
-
+![[Dashboard Screenshot](https://drive.google.com/file/d/1VzimXJw1uwvZzvScGz-46-5ylSVYS_bl/view?usp=sharing)
 ---
 
 ## 🚀 How to Use
